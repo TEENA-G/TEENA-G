@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **teenaganeshkumar20705@gmail.com**
 
-- 📄 Know about my experiences [My Journey](https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing](https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
