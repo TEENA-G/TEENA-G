@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teena GaneshKumar</h1>
 <h3 align="center">A passionate Application developer and a Tech Enthusiast.</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpsd%2Fglasses-girl-cartoon%2F4&psig=AOvVaw1skWj1IaEVKq035wzsS8TI&ust=1744309819696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLihutXKy4wDFQAAAAAdAAAAABAk" alt="">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB3bzR4YnNnc2E0ZTZrczJvc2U4andiZXJzcXptNGk2bTFmZWo4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" alt="">
 - 🔭 I’m currently working on **AI/ML projects**
 
 - 🌱 I’m currently learning **Backend Frameworks and Cloud Services**
