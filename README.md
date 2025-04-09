@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teena GaneshKumar</h1>
 <h3 align="center">A passionate Application developer and a Tech Enthusiast.</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB3bzR4YnNnc2E0ZTZrczJvc2U4andiZXJzcXptNGk2bTFmZWo4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" alt="">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB3bzR4YnNnc2E0ZTZrczJvc2U4andiZXJzcXptNGk2bTFmZWo4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQ1HZe2QIQr7MBVACd/giphy.gif" width="450px" align="right" alt="">
 - 🔭 I’m currently working on **AI/ML projects**
 
 - 🌱 I’m currently learning **Backend Frameworks and Cloud Services**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **teenaganeshkumar20705@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing](https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing)
+- 📄 Know about my experiences [My Journey](https://drive.google.com/file/d/121uCS3BWOBqOgJ-HhVoFjVXOoiURwKo9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
